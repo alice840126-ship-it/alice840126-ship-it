@@ -1,14 +1,21 @@
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:98FB98&height=200&section=header&text=류웅수&fontSize=60&fontColor=fff&fontAlignY=35&animation=fadeIn)
+
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alice840126-ship-it.alice840126-ship-it&icon=github&color=2E8B57)](https://github.com/alice840126-ship-it)
+[![Hits](https://hits.dwyl.com/alice840126-ship-it/alice840126-ship-it.svg?style=flat-square&color=2E8B57)](https://github.com/alice840126-ship-it)
+
+</div>
+
+<div align="center">
+
 # 👋 안녕하세요, 류웅수입니다!
 
 ### 🏠 부동산 중개사 | 🤖 AI 자동화 엔지니어링
 
 **"부동산과 AI의 크로스오버"**
 
-구해줘 부동산을 운영하며, 지식산업센터 전문 중개와 AI 자동화 시스템을 구축합니다.
-
-공인중개사 1차 시험을 준비 중이며, NotebookLM, Claude Code, 옵시디언을 활용한 지식 관리 시스템(PKM)을 구축하고 있습니다.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=2E8B57&center=true&vCenter=true&width=700&lines=구해줘+부동산+운영+중;지식산업센터+전문+중개;AI+자동화+시스템+구축;공인중개사+1차+준비+중)
 
 </div>
 
@@ -18,7 +25,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=2E8B57&center=true&vCenter=true&width=600&lines=부동산+%7C+AI+%7C+자동화;지식산업센터+임대%2F매매+전문;공인중개사+1차+준비+중;PKM+%2B+AI+자동화+시스템+구축)
+![Profile views](https://profile-counter.glitch.me/alice840126-ship-it/count.svg)
 
 </div>
 
@@ -32,6 +39,8 @@
 ---
 
 ## 🛠 Tech Stack
+
+<div align="center">
 
 ### 🐍 Languages & Tools
 
@@ -50,6 +59,8 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
 
@@ -85,8 +96,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alice840126-ship-it&show_icons=true&theme=vue&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alice840126-ship-it&layout=compact&theme=vue&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alice840126-ship-it&show_icons=true&theme=vue&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=500)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alice840126-ship-it&layout=compact&theme=vue&hide_border=true&card_width=500)
+
+![GitHub Streak](https://github-streak-stats.herokuapp.com/?user=alice840126-ship-it&theme=vue&hide_border=true&card_width=500)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alice840126-ship-it&theme=vue&bg_color=fff&color=2E8B57&line=98FB98&point=2E8B57&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -104,6 +120,10 @@
 
 <div align="center">
 
-**"함께 알면 더 똑똑해진다"** - AI와 함께 문제를 해리하는 새로운 장인정신
+**"함께 알면 더 똑똑해진다"**
+
+AI와 함께 문제를 해결하는 새로운 장인정신
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:98FB98&height=100&section=footer)
 
 </div>
