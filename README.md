@@ -15,10 +15,9 @@
 ## 👋 About
 
 - 🏢 **구해줘 부동산** 운영 · 지식산업센터 전문
-- 🎯 **공인중개사 1차 (2026)** 준비 중
 - 🤖 **AI 부동산 데이터 연구소장** · 개인 에이전트 30+ 운영 중
 - 📚 **네이버 블로그 자동화 전자책 저자** (naver-blog-auto)
-- 🌱 **지피터스 · 더 배러 · 세컨드 브레인** 커뮤니티에서 실험 공유
+- 🌱 **지피터스 · 더 배러 · 세컨드 브레인** 커뮤니티 활동
 
 **포지션:**
 바쁜 40대 자영업자가 `AI + 옵시디언 + Claude Code` 로 업무·공부·육아·운동을 한 번에 자동화한 실전 사례를 쌓고 있습니다.
@@ -88,7 +87,7 @@ Obsidian · 네이버 블로그 · Telegram · Google Calendar · launchd
 ## 📫 Find me
 
 - 📝 네이버 블로그 [alice8401](https://blog.naver.com/alice8401)
-- 📚 전자책 [naver-blog-auto](https://github.com/alice840126-ship-it/naver-blog-auto)
+- 📚 전자책 준비중
 - 💬 Email: alice840126@gmail.com
 
 ---
