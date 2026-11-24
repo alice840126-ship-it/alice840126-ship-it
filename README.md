@@ -44,6 +44,8 @@ AI를 설명하는 데서 멈추지 않고, 실제 업무에 연결한 뒤 지�
 
 | 프로젝트 | 설명 |
 |---|---|
+| [ai-workspace-kit](https://github.com/alice840126-ship-it/ai-workspace-kit) | Codex·ChatGPT·Aside의 작업 기억을 GitHub로 잇는 로컬 MCP |
+| [chatgpt-local-files](https://github.com/alice840126-ship-it/chatgpt-local-files) | ChatGPT가 로컬 파일을 읽고 수정하는 MCP와 복구 도구 |
 | [naver-blog-auto](https://github.com/alice840126-ship-it/naver-blog-auto) | 네이버 블로그 콘텐츠 자동화 파이프라인 |
 | [obsidian-claude-code-workflow](https://github.com/alice840126-ship-it/obsidian-claude-code-workflow) | 옵시디언과 Claude Code를 연결한 지식 워크플로우 |
 | [korean-law-mcp-setup](https://github.com/alice840126-ship-it/korean-law-mcp-setup) | 한국 법령 MCP 연동 가이드 |
